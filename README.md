@@ -17,7 +17,6 @@
 
 - 📧 Email me: [kamlesh9876@gmail.com](mailto:kamlesh9876@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/kamlesh9876](https://linkedin.com/in/kamlesh9876)
-- 🎯 Porfolio :[kamlesh-pawar.netlify.app]
 
 ---
 
