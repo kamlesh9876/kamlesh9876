@@ -115,6 +115,6 @@ From **Android apps** to **Python tools**, **AI integrations**, **APIs**, **game
 
 ## 📫 Connect With Me  
 - 📧 **kamleshsharadpawar@gmail.com**  
-- 💼 **linkedin.com/in/kamlesh9876**  
+- 💼 ** https://www.linkedin.com/in/kamlesh-pawar-3871552b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app **  
 
 ---
