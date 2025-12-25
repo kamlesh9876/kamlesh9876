@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me  
-I’m a developer who loves turning ideas into clean, fast, and functional applications.  
+I’m a passionate developer who loves turning ideas into **clean, fast, and functional applications**.  
 From **Android apps** to **Python tools**, **AI integrations**, **APIs**, **games**, and **full-stack web apps**, I build products end-to-end — UI, backend, databases, deployment, and polish.
 
 ---
@@ -26,9 +26,7 @@ From **Android apps** to **Python tools**, **AI integrations**, **APIs**, **game
 - **Code Explainer AI** – explains code for beginners using NLP & syntax parsing  
 - **MythBuster AI (In Progress)** – verifies WhatsApp/news messages using NLP + trusted sources  
 - **Voice Coding Assistant (WIP)** – voice-to-code + commands using Whisper + local LLMs  
-- **AI Analytics Dashboard** – custom tracking, insights & automations (Internship Task A)
-
----
+- **AI Analytics Dashboard** – custom tracking, insights & automations (Internship Task A)  
 
 ### 📱 Android Applications  
 - **Chat Application** – Firebase + Kotlin real-time messaging  
@@ -36,15 +34,11 @@ From **Android apps** to **Python tools**, **AI integrations**, **APIs**, **game
 - **MythBuster AI (Android)** – fake news verification mobile app  
 - **Android Portfolio Mini Apps** – clean UI/UX builds  
 
----
-
 ### 🐍 Python Projects  
 - **Space Run 2.0** – 2D space adventure game using pygame  
 - **Pro UDP File Transfer (GUI)** – sender/receiver tool with reliable flow  
 - **Automation Tools & Scripts** – batch processors, utilities  
 - **Python Quiz Game (Advanced)** – API-based questions, leaderboard, stats  
-
----
 
 ### 🌐 Web Development  
 - **User XP Enhancer (Chrome Extension)** – dark mode, notes, highlights, smooth scroll  
@@ -115,6 +109,6 @@ From **Android apps** to **Python tools**, **AI integrations**, **APIs**, **game
 
 ## 📫 Connect With Me  
 - 📧 **kamleshsharadpawar@gmail.com**  
-- 💼 ** https://www.linkedin.com/in/kamlesh-pawar-3871552b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app **  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kamlesh-pawar-3871552b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
