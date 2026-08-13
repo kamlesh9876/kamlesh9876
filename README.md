@@ -1,13 +1,8 @@
 # kamlesh9876
 
-> Recruiter-friendly proof and contact path.
-
-**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
 ## Header
-Hi, I'm **kamlesh9876**. This README is tuned for **get hired** with a GitHub visual system.
+Hi, I'm **kamlesh9876**.
 ## About Me
-Shapes the short profile story and positioning.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=kamlesh9876&theme=github-dark&mode=light" />
